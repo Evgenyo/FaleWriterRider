@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    // сохранение файла
+    /// сохранение файла
 
     public void saveText(View view) {
         FileOutputStream fos = null;
